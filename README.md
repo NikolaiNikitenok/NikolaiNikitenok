@@ -10,3 +10,6 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-2C302D?style=for-the-badge&logo=telegram&logoColor=11C4FF)](https://t.me/NikolaiNikitenok)
 [![VK](https://img.shields.io/badge/-Vkontakte-2C302D?style=for-the-badge&logo=vk&logoColor=1171FF)](https://vk.com/nikolalllkaa)
+
+### My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaiNikitenok&count_private=trueshow_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
