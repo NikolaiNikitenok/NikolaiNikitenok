@@ -3,7 +3,7 @@
 ## I'm a beginner Developer and Web-Designer
 
 ### My website for investors
-[![NIKITENOK](https://img.shields.io/badge/-NIKITENOK-2C302D?style=plastic&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/NIKITENOK/)
+[![NIKITENOK](https://img.shields.io/badge/-NIKITENOK-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/NIKITENOK/)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-2C302D?style=for-the-badge&logo=python&logoColor=EBDD24)
