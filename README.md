@@ -3,6 +3,9 @@
 ## I'm a beginner Developer and Web-Designer
 ## Programming MCU STM32 and Arduino || Investor in MOEX
 
+### My investment accounting table
+[![Table](https://img.shields.io/badge/-Table-2C302D?style=for-the-badge&logo=excel&logoColor=green)](https://docs.google.com/spreadsheets/d/1sTa9XS0ZywSqDHNe30wycQAXEoN3H7d2nOCUJd5S9zQ/edit?usp=sharing)
+
 ### My website for investors
 [![KnowThePrice](https://img.shields.io/badge/-KnowThePrice-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/KnowThePrice/)
 
