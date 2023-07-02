@@ -1,10 +1,10 @@
 [![Header](https://github.com/NikolaiNikitenok/NikolaiNikitenok/blob/main/assets/CaGitHub.png)](https://t.me/NikolaiNikitenok)
 
 ## I'm a beginner Developer and Web-Designer
-## Programming MCU STM32 and Arduino
+## Programming MCU STM32 and Arduino || Investor in MOEX
 
 ### My website for investors
-[![NIKITENOK](https://img.shields.io/badge/-NIKITENOK-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/NIKITENOK/)
+[![KnowThePrice](https://img.shields.io/badge/-NIKITENOK-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/KnowThePrice/)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-2C302D?style=for-the-badge&logo=python&logoColor=EBDD24)
@@ -13,7 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2C302D?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![C](https://img.shields.io/badge/-C-2C302D?style=for-the-badge&logo=c&logoColor=blue)
 ![Arduino](https://img.shields.io/badge/-Arduino-2C302D?style=for-the-badge&logo=arduino&logoColor=green)
-
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-2C302D?style=for-the-badge&logo=telegram&logoColor=11C4FF)](https://t.me/NikolaiNikitenok)
