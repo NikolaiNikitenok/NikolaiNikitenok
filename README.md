@@ -8,6 +8,7 @@
 
 ### My website for investors
 [![KnowThePrice](https://img.shields.io/badge/-KnowThePrice-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/KnowThePrice/)
+![Factorio Mod Portal factorio versions](https://img.shields.io/factorio-mod-portal/factorio-version/:modName)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-2C302D?style=for-the-badge&logo=python&logoColor=EBDD24)
