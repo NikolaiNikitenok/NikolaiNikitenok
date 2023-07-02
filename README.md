@@ -4,7 +4,7 @@
 ## Programming MCU STM32 and Arduino || Investor in MOEX
 
 ### My website for investors
-[![KnowThePrice](https://img.shields.io/badge/-NIKITENOK-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/KnowThePrice/)
+[![KnowThePrice](https://img.shields.io/badge/-KnowThePrice-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/KnowThePrice/)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-2C302D?style=for-the-badge&logo=python&logoColor=EBDD24)
