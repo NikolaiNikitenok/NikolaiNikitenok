@@ -1,6 +1,7 @@
 [![Header](https://github.com/NikolaiNikitenok/NikolaiNikitenok/blob/main/assets/CaGitHub.png)](https://t.me/NikolaiNikitenok)
 
 ## I'm a beginner Developer and Web-Designer
+## Programming MCU STM32 and Arduino
 
 ### My website for investors
 [![NIKITENOK](https://img.shields.io/badge/-NIKITENOK-2C302D?style=for-the-badge&logo=github&logoColor=violet)](https://nikolainikitenok.github.io/NIKITENOK/)
