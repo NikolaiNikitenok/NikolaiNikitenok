@@ -11,6 +11,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-2C302D?style=for-the-badge&logo=css3&logoColor=E1757D6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2C302D?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![C](https://img.shields.io/badge/-C-2C302D?style=for-the-badge&logo=c&logoColor=blue)
+![Arduino](https://img.shields.io/badge/-Arduino-2C302D?style=for-the-badge&logo=arduino&logoColor=green)
+
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-2C302D?style=for-the-badge&logo=telegram&logoColor=11C4FF)](https://t.me/NikolaiNikitenok)
